@@ -167,10 +167,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TopLine"
-		"xpos"			"c-305"
+		"xpos"			"c-308"
 		"ypos"			"40"
 		"zpos"			"2"
-		"wide"			"610"
+		"wide"			"612"
 		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
